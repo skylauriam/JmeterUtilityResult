@@ -4,7 +4,8 @@ Script to generate the aggregate report &amp; graphs
 # PRECONDITIONS
 
 - The Jmeter execution should generate a output jtl file 
-- Install the Jmeter plugin manager (please see the following guide : https://jmeter-plugins.org/wiki/PluginsManager/ )
+- Install the Jmeter plugin manager (please see the following guide : https://jmeter-plugins.org/wiki/JMeterPluginsCMD/ )
+- check if the JMeterPluginsCMD file is present under /apache-jmeter-x.x.x/bin folder
 
 # HOW TO USE 
 
